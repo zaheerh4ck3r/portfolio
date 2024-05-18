@@ -283,7 +283,7 @@ function Projects() {
             description: [
                 "This project demonstrates the use of PyTorch for Time Series Forecasting with Long Short-Term Memory (LSTM) networks to predict daily coronavirus cases. The dataset is sourced from the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE) and includes the number of reported daily cases by country. The LSTM model is trained on the confirmed cases to predict future trends.",
             ],
-            domains: ["Arduino IDE (C++)", "HTML","CSS" ]
+            domains: ["Deep Learning", "Pytorch","Time Series, LTSMs", "Matplotlib, Seaborn" ]
         },
         {
             name: "Traffic Sign Recognition with PyTorch",
