@@ -12,9 +12,9 @@ function BootingScreen(props) {
             </div>
             <img width="200px" height="100px" className="md:w-1/12 w:1/2" src="./themes/Yaru/status/Kali_Linux_font.png" alt="Ubuntu Name" />
             <div className="text-white mb-4">
-                <a className="underline" href="https://www.linkedin.com/in/aslamx3r/" rel="noreferrer noopener" target="_blank">linkedin</a>
+                <a className="underline" href="https://www.linkedin.com/in/zaheerh4ck3r/" rel="noreferrer noopener" target="_blank">linkedin</a>
                 <span className="font-bold mx-1">|</span>
-                <a href="https://github.com/x3rcyb/kali-linux-portfolio" rel="noreferrer noopener" target="_blank" className="underline">github</a>
+                <a href="https://github.com/zaheerh4ck3r/portfolio" rel="noreferrer noopener" target="_blank" className="underline">github</a>
             </div>
         </div>
     )
