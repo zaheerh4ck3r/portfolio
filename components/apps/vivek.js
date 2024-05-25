@@ -145,7 +145,7 @@ function Education() {
                     <div className=" text-lg md:text-xl text-left font-bold leading-tight">
                         Ejad Labs
                     </div>
-                    <div className=" text-sm text-gray-400 mt-0.5">November 2023 - Present</div>
+                    <div className=" text-sm text-gray-400 mt-0.5">November 2023 - May 2024</div>
                     <div className=" text-sm md:text-base">Software Engineering Internee</div>
                     <ul className="list-inside list-disc">
                         <li>Engineered a fully functional web application to optimize operational workflows and enhance user interaction.</li>
