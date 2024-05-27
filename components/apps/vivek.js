@@ -146,7 +146,7 @@ function Education() {
                         Ejad Labs
                     </div>
                     <div className=" text-sm text-gray-400 mt-0.5">November 2023 - May 2024</div>
-                    <div className=" text-sm md:text-base">Software Engineering Internee</div>
+                    <div className=" text-sm md:text-base">Software Engineering Trainee</div>
                     <ul className="list-inside list-disc">
                         <li>Engineered a fully functional web application to optimize operational workflows and enhance user interaction.</li>
                         <li>Devised a resume scoring system based on intricate criteria, resulting in a 30% reduction in manual screening efforts.</li>
