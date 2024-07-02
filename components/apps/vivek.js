@@ -143,6 +143,17 @@ function Education() {
             <ul className=" w-10/12  mt-4 ml-4 px-0 md:px-1">
                 <li className="list-disc">
                     <div className=" text-lg md:text-xl text-left font-bold leading-tight">
+                        Plug AI
+                    </div>
+                    <div className=" text-sm text-gray-400 mt-0.5">June 2024 - Present</div>
+                    <div className=" text-sm md:text-base">Data Scientist</div>
+                    <ul className="list-inside list-disc">
+                        <li>Research and Development regarding new AI ideas</li>
+                    </ul>
+                </li>
+
+            <li className="list-disc">
+                    <div className=" text-lg md:text-xl text-left font-bold leading-tight">
                         Ejad Labs
                     </div>
                     <div className=" text-sm text-gray-400 mt-0.5">November 2023 - May 2024</div>
