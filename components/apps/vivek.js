@@ -115,7 +115,7 @@ function About() {
             </div>
             <div className=" mt-4 md:mt-8 text-lg md:text-2xl text-center px-1">
                 <div>I'm <span className="font-bold">Muhammad Zaheer</span> ,</div>
-                <div className="font-normal ml-1">I'm a <span className="text-pink-600 font-bold">Data Scientist</span></div>
+                <div className="font-normal ml-1">Your friendly neighbourhood <span className="text-pink-600 font-bold">Data Scientist</span></div>
             </div>
             <div className=" mt-4 relative md:my-8 pt-px bg-white w-32 md:w-48">
                 <div className="bg-white absolute rounded-full p-0.5 md:p-1 top-0 transform -translate-y-1/2 left-0"></div>
@@ -148,7 +148,12 @@ function Education() {
                     <div className=" text-sm text-gray-400 mt-0.5">June 2024 - Present</div>
                     <div className=" text-sm md:text-base">Data Scientist</div>
                     <ul className="list-inside list-disc">
-                        <li>Research and Development regarding new AI ideas</li>
+                        <li>Worked in R&D, focusing on experimenting with new AI ideas in fintech, healthcare, and large language models (LLMs).</li>
+                        <li>Built AI models to solve healthcare problems, improving accuracy in predictions and diagnoses.</li>
+                        <li>Explored machine learning applications in fintech, leading to more efficient processes.</li>
+                        <li>Collaborated with teams to develop practical AI solutions using natural language processing and computer vision.</li>
+                        <li>Continuously tested and applied new AI methods to create real-world impact across different sectors.</li>
+
                     </ul>
                 </li>
 
