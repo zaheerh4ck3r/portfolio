@@ -114,18 +114,28 @@ function About() {
                 <img className="w-full" src="./images/logos/bitmoji.png" alt="Vivek Patel Logo" />
             </div>
             <div className=" mt-4 md:mt-8 text-lg md:text-2xl text-center px-1">
-                <div>I'm <span className="font-bold">Muhammad Zaheer</span> ,</div>
-                <div className="font-normal ml-1">Your friendly neighbourhood <span className="text-pink-600 font-bold">Data Scientist</span></div>
+                <div>I'm <span className="font-bold">Zaheer</span> ,</div>
+                <div className="font-normal ml-1">You better call me sherlock and oh btw I am a <span className="text-pink-600 font-bold">Data Scientist</span></div>
             </div>
             <div className=" mt-4 relative md:my-8 pt-px bg-white w-32 md:w-48">
                 <div className="bg-white absolute rounded-full p-0.5 md:p-1 top-0 transform -translate-y-1/2 left-0"></div>
                 <div className="bg-white absolute rounded-full p-0.5 md:p-1 top-0 transform -translate-y-1/2 right-0"></div>
             </div>
             <ul className=" mt-4 leading-tight tracking-tight text-sm md:text-base w-5/6 md:w-3/4 emoji-list">
-                <li className=" list-pc">Proven success in streamlining operations and deploying cutting-edge algorithms, achieving a remarkable 30% reduction in manual screening and a 25% improvement in interview efficiency.</li>
-                <li className=" mt-3 list-building">Demonstrated expertise in optimizing web application testing, slashing time by 50%, and reducing data processing efforts by 70%, leading to a substantial 30% decrease in pentesting costs through Python automation.</li>
-                <li className=" mt-3 list-time">Committed to continual advancement, resulting in a quantifiable 15% overall process efficiency boost.</li>
-                <li className=" mt-3 list-star">Proficient in an extensive array of technical skills, encompassing software development, machine learning, computer vision, natural language processing, software engineering, visualization, algorithms, image processing, time series analysis, neural networks, Linux administration, transfer learning, reinforcement learning, generative AI, and DevOps.</li>
+                <li className="list-pc">
+                Proven success as a Machine Learning Engineer, creating models for civil engineering applications, PCI calculation, and computer vision—raising model accuracy from 40% to 91% by applying advanced techniques such as transfer learning, hyperparameter tuning, and architectural optimization.
+                </li>
+                <li className="mt-3 list-building">
+                Demonstrated expertise in streamlining operations and deploying cutting-edge algorithms, achieving a 30% reduction in manual screening and a 25% improvement in interview efficiency through intelligent automation and data-driven insights.
+                </li>
+                <li className="mt-3 list-time">
+                Optimized web application testing processes using Python automation—reducing testing time by 50%, decreasing data processing effort by 70%, and cutting pentesting costs by 30% without compromising security or coverage.
+                </li>
+                <li className="mt-3 list-star">
+                Proficient in a comprehensive range of technical skills, including software development, machine learning, computer vision, natural language processing, image processing, software engineering, time series analysis, neural networks, transfer learning, reinforcement learning, generative AI, Linux administration, DevOps, and algorithm design—committed to continual growth, reflected in a 15% overall efficiency boost across projects.
+                </li>
+
+
             </ul>
         </>
     )
@@ -141,11 +151,28 @@ function Education() {
                 </div>
             </div>
             <ul className=" w-10/12  mt-4 ml-4 px-0 md:px-1">
+<li className="list-disc">
+  <div className=" text-lg md:text-xl text-left font-bold leading-tight">
+    AirLoop
+  </div>
+  <div className=" text-sm text-gray-400 mt-0.5">Oct 2024 - Present</div>
+  <div className=" text-sm md:text-base">Machine Learning Engineer</div>
+  <ul className="list-inside list-disc">
+    <li>Led development of web applications and end-to-end ML systems, integrating DevOps automation and CI/CD pipelines for scalable deployment.</li>
+    <li>Boosted model accuracy from 40% to 91% by applying advanced techniques including feature engineering, hyperparameter tuning, ensemble methods, cross-validation, and data augmentation.</li>
+    <li>Deployed production-grade ML models for intelligent transportation and civil engineering use-cases, ensuring seamless integration and real-world impact.</li>
+    <li>Automated the Pavement Condition Index (PCI) calculation pipeline using AI and Python, reducing manual intervention and improving consistency.</li>
+    <li>Collaborated cross-functionally with civil engineers and ITS specialists to design AI-driven solutions tailored to infrastructure and mobility challenges.</li>
+    <li>Effectively communicated technical insights to non-technical stakeholders, ensuring alignment on project goals and outcomes.</li>
+  </ul>
+</li>
+
+
                 <li className="list-disc">
                     <div className=" text-lg md:text-xl text-left font-bold leading-tight">
                         Plug AI
                     </div>
-                    <div className=" text-sm text-gray-400 mt-0.5">June 2024 - Present</div>
+                    <div className=" text-sm text-gray-400 mt-0.5">June 2024 - Sept 2024</div>
                     <div className=" text-sm md:text-base">Data Scientist</div>
                     <ul className="list-inside list-disc">
                         <li>Worked in R&D, focusing on experimenting with new AI ideas in fintech, healthcare, and large language models (LLMs).</li>
